@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="images/anson-cloudx-banner.png" alt="ANSON CLOUDX" />
-</p>
+![ANSON CLOUDX](images/anson-cloudx-banner.png)
 
-# azure-vm
+
 
 This project deploys a Linux VM network architecture in Azure using Terraform.
 
